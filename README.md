@@ -1,7 +1,6 @@
 # Haplo-keyword-list-copy-and-paste-AHK
-AHK script to copy and paste keywords from an article into a Haplo repository
 
-The new record script includes two shortcut keys one to quickly cut and paste a list of article keywords into a Haplo record and the other the create a standardised file name from an existing Haplo record. 
+New record script includes two shortcut keys one to quickly cut and paste a list of article keywords into a Haplo record and the other the create a standardised file name from an existing Haplo record. 
 
 <b>Keywords (ctrl + k)</b></br>
 <b>Instructions</b>
